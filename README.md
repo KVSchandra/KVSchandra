@@ -9,7 +9,7 @@
 >Outside of coding, I enjoy participating in coding challenges, contributing to open-source projects, and learning new programming concepts. I'm excited to collaborate with like-minded individuals and share my knowledge with others :D
 
 
-## 📟 - Tecnologies
+## 📟 - Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
